@@ -100,10 +100,9 @@ endwhile
 
 
 
-bosluk=" "
-'set font 12 C:\OpenGrADS\Contents\Resources\SupportData\LexendDeca-Regular.ttf.ttf'
+space=" "
 'set strsiz 0.1 0.1'
-'draw string 8.2 8.3 Run:'ddb bosluk mmm bosluk yyb bosluk hhb Z
+'draw string 8.2 8.3 Run:'ddb space mmm space yyb space hhb Z
 'set string 1 c 10 0'
 'set strsiz 0.18 0.18'
 'draw string 5.3 8 'title' 850 hPa Temperature Diagram (21 Scenarios and Main Run)'
