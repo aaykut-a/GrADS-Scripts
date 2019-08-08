@@ -109,7 +109,6 @@ bosluk=" "
 'draw string 5.3 8 'title' 850 hPa Temperature Diagram (21 Scenarios and Main Run)'
 'set string 1 c 1.25 0'
 'set strsiz 0.1 0.15'
-'draw string 10.2 0.3 havaninotlari.com'
 'draw string 1 0.3 Data: GFS Ensemble'
 'set line 2 1 12'
 'draw line  4 0.3 5 0.3'
